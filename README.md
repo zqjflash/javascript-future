@@ -59,7 +59,7 @@
 
     * 在浏览器中它将导致UI阻塞（白屏等），如果连接服务器响应很慢，那么用户浏览器将冻结，不能进行其他操作。
 
-        ![Alt text](https://raw.githubusercontent.com/zqjflash/javascript-future/master/js-synchronous.png)
+        ![Alt text](https://raw.githubusercontent.com/zqjflash/javascript-future/master/future-synchronous.png)
 
     * 在后台服务中它将导致QPS下降，如果服务请求量大，响应时间会升高，处理不好还会导致雪崩。
 
